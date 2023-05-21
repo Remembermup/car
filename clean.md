@@ -16,3 +16,5 @@ Compute the mean (average) of the Xi values and denote it as X̄.
 Compute the mean (average) of the Yi values and denote it as Ȳ.
 For each data point, subtract the mean of the X values (X̄) from the corresponding Xi value, and subtract the mean of the Y values (Ȳ) from the corresponding Yi value.
 Square each of these differences (Xi - X̄) and (Yi - Ȳ).
+Calculate the sum of all the squared differences for the Y values and denote it as Σ(Yi - Ȳ)².
+Multiply the sum of the products of the differences (Σ[(Xi - X̄)(Yi - Ȳ)]) by the reciprocal of the square root of the product of Σ(Xi - X̄)² and Σ(Yi - Ȳ)².
